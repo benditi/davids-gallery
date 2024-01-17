@@ -1,5 +1,5 @@
-# [Cosing Academy - Base Gallery]
-A responsive portfolio grid to be used by Coding Academy students
+# [David Ben Ishai's web site]
+A website that shows my latest projects and general info.
 
 
 ## Usage
